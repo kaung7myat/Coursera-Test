@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+<a href="https://kaung7myat.github.io/Coursera-Test/site/"> My site </a>
 
 You can use the [editor on GitHub](https://github.com/kaung7myat/Coursera-Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
