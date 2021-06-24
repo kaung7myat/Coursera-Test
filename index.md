@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/kaung7myat/Coursera-Test/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.<br>
 <ul><li><a href="https://kaung7myat.github.io/Coursera-Test/site/" target="_blank"> My site </a></li>
-<li><a href="https://kaung7myat.github.io/Coursera-Test/love/" target="_blank"> My love </a></li></ul>
+<li><a href="https://kaung7myat.github.io/Coursera-Test/love/" target="_blank"> My love </a></li>
+<li><a href="/">Home</a></ul>
 
 ### Markdown
 
